@@ -1,0 +1,44 @@
+/*620077636*/
+th{
+  color: black;
+  padding-top: 20px;
+}
+
+table{
+  font-size: 1.1em;
+  font-family: "Tahoma";
+  border: 10px solid #d0d0ff;
+  height:300px;
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 10px;
+
+
+}
+
+
+#d, #c, #ct, #aid, .d, .c, .ct, .aid{
+  text-align: left;
+}
+#l, #s, #cc, .l, .s, .cc{
+  text-align: center;
+}
+
+th, td{
+
+  padding-left: 10px;/* allows space at left row*/
+  
+}
+
+
+tr{
+  margin: 10px;
+
+}
+tr.tot{
+  font-weight: bold;
+  border: 2px solid black;
+}
+.tal, .ttal{
+  padding-bottom: 20px;
+}

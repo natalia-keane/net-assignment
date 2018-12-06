@@ -1,0 +1,15 @@
+/*620077636*/
+form, select{
+  font-size: 1.1em;
+  font-family: Verdana;
+}
+.error{
+  border-color: red;
+  color: red;
+  
+}
+.valid{
+
+  border-color: black;
+  color: black;
+}

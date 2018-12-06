@@ -1,0 +1,41 @@
+/*620077636*/
+th{
+  background-color: #687291;
+  color: #dfe1e7;
+
+}
+table{
+  height:450px;
+  width: 100%;
+
+  border-collapse: collapse;
+}
+td{
+border-top: 1px solid white;
+padding-left: 1px;
+
+}
+.sl{
+  background-color: #dfe1e7;
+}
+
+#d, #c, #ct, #aid, .d, .c, .ct, .aid{
+  text-align: left;
+}
+#l, #s, #cc, .l, .s, .cc{
+  text-align: center;
+}
+th, td{
+  font-size: 1.1em;
+  font-family: "Tahoma";
+  padding-left: 10px;
+}
+
+.tot{
+  display:none;
+}
+
+tr{
+  padding: 4px;
+  background-color:  #eeeff2;
+}
